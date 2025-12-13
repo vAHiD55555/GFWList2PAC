@@ -1,7 +1,7 @@
-# Checksum: MTc2NTUwMzU1NAo=
+# Checksum: MTc2NTU4OTEzMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.9-20251212-0
-# TimeUpdated: 2025-12-12T01:39:14+00:00
+# Version: 1.0.9-20251213-0
+# TimeUpdated: 2025-12-13T01:25:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -18093,7 +18093,6 @@ domain:bytedance.org,
 domain:bytedanceapi.com,
 domain:bytedancehermestest.com,
 domain:bytedancevod.com,
-domain:bytedapm.com,
 domain:bytedcdn.com,
 domain:bytedeliver.com,
 domain:bytedgames.com,
