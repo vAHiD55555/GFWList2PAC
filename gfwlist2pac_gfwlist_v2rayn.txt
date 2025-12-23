@@ -1,7 +1,7 @@
-# Checksum: MTc2NjM2Nzg2OAo=
+# Checksum: MTc2NjQ1NDAxNwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.0.9-20251222-0
-# TimeUpdated: 2025-12-22T01:44:28+00:00
+# Version: 1.0.9-20251223-0
+# TimeUpdated: 2025-12-23T01:40:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000webhost.com,
@@ -27706,6 +27706,7 @@ domain:static-hamivideo.cdn.hinet.net,
 domain:static-nike.com,
 domain:static-verizon.com,
 domain:static.fun,
+domain:static.pocketcasts.com,
 domain:static.shemalez.com,
 domain:static.siege-amazon.com,
 domain:static01.nyt.com,
