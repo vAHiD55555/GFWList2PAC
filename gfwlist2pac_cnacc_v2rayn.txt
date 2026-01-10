@@ -1,7 +1,7 @@
-# Checksum: MTc2NzkyMjk3Ngo=
+# Checksum: MTc2ODAwOTE4Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.9-20260109-0
-# TimeUpdated: 2026-01-09T01:42:56+00:00
+# Version: 1.0.9-20260110-0
+# TimeUpdated: 2026-01-10T01:39:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -35237,6 +35237,7 @@ domain:fnkslift.com,
 domain:fnkvision.com,
 domain:fnmobi.com,
 domain:fnnas.com,
+domain:fnnas.net,
 domain:fnnsh.com,
 domain:fnnspa.com,
 domain:fnos.net,
@@ -90196,6 +90197,7 @@ domain:tapafun.com,
 domain:tapai.com,
 domain:tapaijiu.com,
 domain:tapapis.com,
+domain:tapapks.com,
 domain:tapas.net,
 domain:tapbooster.net,
 domain:tapdata.net,
