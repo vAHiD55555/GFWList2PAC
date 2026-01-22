@@ -1,7 +1,7 @@
-# Checksum: MTc2ODk1OTk4Ngo=
+# Checksum: MTc2OTA0NjM4MQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.0.9-20260121-0
-# TimeUpdated: 2026-01-21T01:46:26+00:00
+# Version: 1.0.9-20260122-0
+# TimeUpdated: 2026-01-22T01:46:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -2101,23 +2101,17 @@ DOMAIN-SUFFIX,aoxvpn.com,PROXY
 DOMAIN-SUFFIX,aoxx69.net,PROXY
 DOMAIN-SUFFIX,aozorabank.co.jp,PROXY
 DOMAIN-SUFFIX,ap-bangkok.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-bangkok.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-bangkok.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-hongkong.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-hongkong.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-jakarta.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-jakarta.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-jakarta.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-mumbai.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-mumbai.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-mumbai.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-seoul.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-seoul.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-seoul.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-singapore.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-singapore.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com,PROXY
@@ -2125,7 +2119,6 @@ DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,ap-tokyo.myqcloud.com,PROXY
-DOMAIN-SUFFIX,ap-tokyo.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,ap-tokyo.tencentcos.com,PROXY
 DOMAIN-SUFFIX,ap.org,PROXY
 DOMAIN-SUFFIX,ap0le.com,PROXY
@@ -5717,7 +5710,6 @@ DOMAIN-SUFFIX,bynet.co.il,PROXY
 DOMAIN-SUFFIX,bypasscensorship.org,PROXY
 DOMAIN-SUFFIX,byrut.org,PROXY
 DOMAIN-SUFFIX,byspotify.com,PROXY
-DOMAIN-SUFFIX,bytedance.map.fastly.net,PROXY
 DOMAIN-SUFFIX,byteglb.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
 DOMAIN-SUFFIX,byteoversea.net,PROXY
@@ -10587,10 +10579,8 @@ DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,eu-consumer-empowerment.com,PROXY
 DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com,PROXY
-DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com,PROXY
 DOMAIN-SUFFIX,eu-moscow.myqcloud.com,PROXY
-DOMAIN-SUFFIX,eu-moscow.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,eu-moscow.tencentcos.com,PROXY
 DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com,PROXY
@@ -18207,6 +18197,7 @@ DOMAIN-SUFFIX,liveleak.com,PROXY
 DOMAIN-SUFFIX,livemint.com,PROXY
 DOMAIN-SUFFIX,livemodels.co,PROXY
 DOMAIN-SUFFIX,livenet.ac.uk,PROXY
+DOMAIN-SUFFIX,liveperson.net,PROXY
 DOMAIN-SUFFIX,livephotos.tv,PROXY
 DOMAIN-SUFFIX,liveporngirls.com,PROXY
 DOMAIN-SUFFIX,liveprivates.com,PROXY
@@ -18453,6 +18444,7 @@ DOMAIN-SUFFIX,lp99.pw,PROXY
 DOMAIN-SUFFIX,lpc.ac.uk,PROXY
 DOMAIN-SUFFIX,lpmde.ac.uk,PROXY
 DOMAIN-SUFFIX,lpsg.com,PROXY
+DOMAIN-SUFFIX,lpsnmedia.net,PROXY
 DOMAIN-SUFFIX,lputil.com,PROXY
 DOMAIN-SUFFIX,lqh0bon3.xyz,PROXY
 DOMAIN-SUFFIX,lqpjw.cyou,PROXY
@@ -20810,16 +20802,13 @@ DOMAIN-SUFFIX,n3ro.net,PROXY
 DOMAIN-SUFFIX,n3ro.wtf,PROXY
 DOMAIN-SUFFIX,n8agrifood.ac.uk,PROXY
 DOMAIN-SUFFIX,na-ashburn.myqcloud.com,PROXY
-DOMAIN-SUFFIX,na-ashburn.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,na-ashburn.tencentcos.com,PROXY
 DOMAIN-SUFFIX,na-att-idns.net,PROXY
 DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com,PROXY
 DOMAIN-SUFFIX,na-me.ac.uk,PROXY
 DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com,PROXY
-DOMAIN-SUFFIX,na-siliconvalley.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com,PROXY
 DOMAIN-SUFFIX,na-toronto.myqcloud.com,PROXY
-DOMAIN-SUFFIX,na-toronto.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,na-toronto.tencentcos.com,PROXY
 DOMAIN-SUFFIX,na1r.services.adobe.com,PROXY
 DOMAIN-SUFFIX,naacoalition.org,PROXY
@@ -25778,7 +25767,6 @@ DOMAIN-SUFFIX,s81c.com,PROXY
 DOMAIN-SUFFIX,s8ds5gfm.xyz,PROXY
 DOMAIN-SUFFIX,s8forum.com,PROXY
 DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com,PROXY
-DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn,PROXY
 DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com,PROXY
 DOMAIN-SUFFIX,sa.com,PROXY
 DOMAIN-SUFFIX,sa.hao123.com,PROXY
@@ -25980,6 +25968,7 @@ DOMAIN-SUFFIX,sbux.com.my,PROXY
 DOMAIN-SUFFIX,sbuxcard.com,PROXY
 DOMAIN-SUFFIX,sc-cdn.net,PROXY
 DOMAIN-SUFFIX,sc-toolkit.ac.uk,PROXY
+DOMAIN-SUFFIX,sc.com,PROXY
 DOMAIN-SUFFIX,sc1.ac.uk,PROXY
 DOMAIN-SUFFIX,sca-tolo.info,PROXY
 DOMAIN-SUFFIX,scaan.ac.uk,PROXY
@@ -27832,7 +27821,10 @@ DOMAIN-SUFFIX,stak.ac.uk,PROXY
 DOMAIN-SUFFIX,stamford.ac.uk,PROXY
 DOMAIN-SUFFIX,stamfordparktrust.ac.uk,PROXY
 DOMAIN-SUFFIX,standard.co.uk,PROXY
+DOMAIN-SUFFIX,standardchartered.com,PROXY
 DOMAIN-SUFFIX,standardsuniversity.org,PROXY
+DOMAIN-SUFFIX,standchartbank.sc.omtrdc.net,PROXY
+DOMAIN-SUFFIX,standchartbank.tt.omtrdc.net,PROXY
 DOMAIN-SUFFIX,standupfortibet.org,PROXY
 DOMAIN-SUFFIX,standwithhk.org,PROXY
 DOMAIN-SUFFIX,stanford.edu,PROXY
@@ -28870,7 +28862,6 @@ DOMAIN-SUFFIX,tempusuk.ac.uk,PROXY
 DOMAIN-SUFFIX,temu.com,PROXY
 DOMAIN-SUFFIX,tenacy.com,PROXY
 DOMAIN-SUFFIX,tenbyfotolia.com,PROXY
-DOMAIN-SUFFIX,tencentcos.cn,PROXY
 DOMAIN-SUFFIX,tenor.com,PROXY
 DOMAIN-SUFFIX,tensorflow.org,PROXY
 DOMAIN-SUFFIX,tentowns.ac.uk,PROXY
@@ -30620,7 +30611,6 @@ DOMAIN-SUFFIX,upmedia.mg,PROXY
 DOMAIN-SUFFIX,upmg.ac.uk,PROXY
 DOMAIN-SUFFIX,upornia.com,PROXY
 DOMAIN-SUFFIX,uporno.xxx,PROXY
-DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,PROXY
 DOMAIN-SUFFIX,uproxy.org,PROXY
 DOMAIN-SUFFIX,uptodown.com,PROXY
 DOMAIN-SUFFIX,upwill.org,PROXY
@@ -33771,6 +33761,9 @@ DOMAIN-SUFFIX,youjizz.com,PROXY
 DOMAIN-SUFFIX,youjizz.sex,PROXY
 DOMAIN-SUFFIX,youlucky.com,PROXY
 DOMAIN-SUFFIX,youmaker.com,PROXY
+DOMAIN-SUFFIX,youmind.ai,PROXY
+DOMAIN-SUFFIX,youmind.com,PROXY
+DOMAIN-SUFFIX,youmind.site,PROXY
 DOMAIN-SUFFIX,young-amateur-movies.com,PROXY
 DOMAIN-SUFFIX,young-webcam.net,PROXY
 DOMAIN-SUFFIX,young-xxx.net,PROXY
