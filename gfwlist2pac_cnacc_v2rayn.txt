@@ -1,7 +1,7 @@
-# Checksum: MTc2OTA0NjM2OAo=
+# Checksum: MTc2OTEzMjYwOAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.9-20260122-0
-# TimeUpdated: 2026-01-22T01:46:08+00:00
+# Version: 1.0.9-20260123-0
+# TimeUpdated: 2026-01-23T01:43:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -13373,6 +13373,7 @@ domain:baimatech.com,
 domain:baimda.com,
 domain:baimei.com,
 domain:baimeidashu.com,
+domain:baimiao.tech,
 domain:baimiaoapp.com,
 domain:baimin.com,
 domain:baina.com,
@@ -83557,6 +83558,7 @@ domain:shinelon.com,
 domain:shineoptics.com,
 domain:shineray-motors.com,
 domain:shinerayad.com,
+domain:shinescan.tech,
 domain:shinetsu.shop,
 domain:shineu.com,
 domain:shineway.com,

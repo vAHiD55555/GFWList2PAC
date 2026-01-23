@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2OTA0NjM2OAo=
+# Checksum: MTc2OTEzMjYwOAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.9-20260122-0
-# TimeUpdated: 2026-01-22T01:46:08+00:00
+# Version: 1.0.9-20260123-0
+# TimeUpdated: 2026-01-23T01:43:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -13374,6 +13374,7 @@ payload:
   - DOMAIN-SUFFIX,baimda.com
   - DOMAIN-SUFFIX,baimei.com
   - DOMAIN-SUFFIX,baimeidashu.com
+  - DOMAIN-SUFFIX,baimiao.tech
   - DOMAIN-SUFFIX,baimiaoapp.com
   - DOMAIN-SUFFIX,baimin.com
   - DOMAIN-SUFFIX,baina.com
@@ -83558,6 +83559,7 @@ payload:
   - DOMAIN-SUFFIX,shineoptics.com
   - DOMAIN-SUFFIX,shineray-motors.com
   - DOMAIN-SUFFIX,shinerayad.com
+  - DOMAIN-SUFFIX,shinescan.tech
   - DOMAIN-SUFFIX,shinetsu.shop
   - DOMAIN-SUFFIX,shineu.com
   - DOMAIN-SUFFIX,shineway.com

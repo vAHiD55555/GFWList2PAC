@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc2OTA0NjM4MQo=
+# Checksum: MTc2OTEzMjYyMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.0.9-20260122-0
-# TimeUpdated: 2026-01-22T01:46:21+00:00
+# Version: 1.0.9-20260123-0
+# TimeUpdated: 2026-01-23T01:43:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000webhost.com
@@ -1192,7 +1192,6 @@ payload:
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,adx.promo
   - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
-  - DOMAIN-SUFFIX,ae-rus.net
   - DOMAIN-SUFFIX,ae.hao123.com
   - DOMAIN-SUFFIX,ae.org
   - DOMAIN-SUFFIX,aeasyshop.com
@@ -1212,12 +1211,9 @@ payload:
   - DOMAIN-SUFFIX,aerospace-design.com
   - DOMAIN-SUFFIX,aerospace-training-wales.ac.uk
   - DOMAIN-SUFFIX,aes.ac.uk
-  - DOMAIN-SUFFIX,aestatic.net
   - DOMAIN-SUFFIX,aesworkshops.com
   - DOMAIN-SUFFIX,aex.com
-  - DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
-  - DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com
   - DOMAIN-SUFFIX,af.mil
   - DOMAIN-SUFFIX,afantibbs.com
   - DOMAIN-SUFFIX,afao.ac.uk
@@ -1409,9 +1405,6 @@ payload:
   - DOMAIN-SUFFIX,ajsjx.com
   - DOMAIN-SUFFIX,ajtalk.com
   - DOMAIN-SUFFIX,ajunews.com
-  - DOMAIN-SUFFIX,ak-p.tripcdn.com
-  - DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
-  - DOMAIN-SUFFIX,ak-s.tripcdn.com
   - DOMAIN-SUFFIX,ak1.net
   - DOMAIN-SUFFIX,aka-ai.com
   - DOMAIN-SUFFIX,aka-ai.net
@@ -1477,7 +1470,6 @@ payload:
   - DOMAIN-SUFFIX,akasha.world
   - DOMAIN-SUFFIX,akastream.com
   - DOMAIN-SUFFIX,akastream.net
-  - DOMAIN-SUFFIX,akatest.tripcdn.com
   - DOMAIN-SUFFIX,akatns.net
   - DOMAIN-SUFFIX,akiba-online.com
   - DOMAIN-SUFFIX,akiba-souken.com
@@ -2109,16 +2101,11 @@ payload:
   - DOMAIN-SUFFIX,ap-jakarta.tencentcos.com
   - DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
   - DOMAIN-SUFFIX,ap-mumbai.tencentcos.com
-  - DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-seoul.myqcloud.com
   - DOMAIN-SUFFIX,ap-seoul.tencentcos.com
   - DOMAIN-SUFFIX,ap-singapore.myqcloud.com
   - DOMAIN-SUFFIX,ap-singapore.tencentcos.com
-  - DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com
-  - DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com
-  - DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
-  - DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-tokyo.myqcloud.com
   - DOMAIN-SUFFIX,ap-tokyo.tencentcos.com
   - DOMAIN-SUFFIX,ap.org
@@ -2674,10 +2661,6 @@ payload:
   - DOMAIN-SUFFIX,as-dash-uk-live.akamaized.net
   - DOMAIN-SUFFIX,as-hls-uk-live.akamaized.net
   - DOMAIN-SUFFIX,as-hp.ca
-  - DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com
-  - DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com
-  - DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com
-  - DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com
   - DOMAIN-SUFFIX,asacp.org
   - DOMAIN-SUFFIX,asagaku.com
   - DOMAIN-SUFFIX,asahi.com
@@ -3180,9 +3163,6 @@ payload:
   - DOMAIN-SUFFIX,avxlive.icu
   - DOMAIN-SUFFIX,avxxc.com
   - DOMAIN-SUFFIX,avyahoo.com
-  - DOMAIN-SUFFIX,aw-d.tripcdn.com
-  - DOMAIN-SUFFIX,aw-p.tripcdn.com
-  - DOMAIN-SUFFIX,aw-s.tripcdn.com
   - DOMAIN-SUFFIX,awabank.co.jp
   - DOMAIN-SUFFIX,awayoutgame.com
   - DOMAIN-SUFFIX,aweencore.com
@@ -5711,9 +5691,7 @@ payload:
   - DOMAIN-SUFFIX,bypasscensorship.org
   - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,byspotify.com
-  - DOMAIN-SUFFIX,byteglb.com
   - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,bytick.com
   - DOMAIN-SUFFIX,byzantine-ahrb-centre.ac.uk
   - DOMAIN-SUFFIX,byzantium.ac.uk
@@ -5735,7 +5713,6 @@ payload:
   - DOMAIN-SUFFIX,c4ccetl.ac.uk
   - DOMAIN-SUFFIX,c4rex.co
   - DOMAIN-SUFFIX,c4slive.com
-  - DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,ca.file.myqcloud.com
   - DOMAIN-SUFFIX,ca.gov
   - DOMAIN-SUFFIX,caacentre.ac.uk
@@ -7856,7 +7833,6 @@ payload:
   - DOMAIN-SUFFIX,cue.ac.uk
   - DOMAIN-SUFFIX,cuebic.biz
   - DOMAIN-SUFFIX,cuffiesaldi.com
-  - DOMAIN-SUFFIX,cuguplus.com
   - DOMAIN-SUFFIX,cuhk.edu.hk
   - DOMAIN-SUFFIX,cuhkacs.org
   - DOMAIN-SUFFIX,cuhop.ac.uk
@@ -7888,7 +7864,6 @@ payload:
   - DOMAIN-SUFFIX,cumteenporn.com
   - DOMAIN-SUFFIX,cunhua.pics
   - DOMAIN-SUFFIX,cuniq.com
-  - DOMAIN-SUFFIX,cuniq.sg
   - DOMAIN-SUFFIX,cuntcrack.com
   - DOMAIN-SUFFIX,cuntempire.com
   - DOMAIN-SUFFIX,cuntwars.com
@@ -10576,17 +10551,12 @@ payload:
   - DOMAIN-SUFFIX,etviet.com
   - DOMAIN-SUFFIX,etvonline.hk
   - DOMAIN-SUFFIX,etwealth.com
-  - DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com
-  - DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
   - DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com
   - DOMAIN-SUFFIX,eu-moscow.myqcloud.com
   - DOMAIN-SUFFIX,eu-moscow.tencentcos.com
-  - DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com
-  - DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
-  - DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,eubluecardvisa.com
   - DOMAIN-SUFFIX,eucasino.com
@@ -12636,6 +12606,7 @@ payload:
   - DOMAIN-SUFFIX,geocities.com
   - DOMAIN-SUFFIX,geocities.jp
   - DOMAIN-SUFFIX,geodesummit.com
+  - DOMAIN-SUFFIX,geogebra.org
   - DOMAIN-SUFFIX,geohazard.ac.uk
   - DOMAIN-SUFFIX,geolytics.com
   - DOMAIN-SUFFIX,geoport.com
@@ -17635,7 +17606,6 @@ payload:
   - DOMAIN-SUFFIX,l-msedge.net
   - DOMAIN-SUFFIX,la-forum.org
   - DOMAIN-SUFFIX,la-mama.ru
-  - DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com
   - DOMAIN-SUFFIX,lab.skk.moe
   - DOMAIN-SUFFIX,laban.ac.uk
   - DOMAIN-SUFFIX,labiennale.org
@@ -19222,9 +19192,6 @@ payload:
   - DOMAIN-SUFFIX,mdx.ac.uk
   - DOMAIN-SUFFIX,mdyy.de
   - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
-  - DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com
-  - DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com
-  - DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,me.ns.ci
@@ -20805,7 +20772,6 @@ payload:
   - DOMAIN-SUFFIX,na-ashburn.myqcloud.com
   - DOMAIN-SUFFIX,na-ashburn.tencentcos.com
   - DOMAIN-SUFFIX,na-att-idns.net
-  - DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,na-me.ac.uk
   - DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com
   - DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com
@@ -25658,7 +25624,6 @@ payload:
   - DOMAIN-SUFFIX,rtm.tnt-ea.com
   - DOMAIN-SUFFIX,rtycminnesota.org
   - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
-  - DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,rua-project.ac.uk
   - DOMAIN-SUFFIX,ruanyifeng.com
   - DOMAIN-SUFFIX,ruby-lang.org
@@ -25684,7 +25649,6 @@ payload:
   - DOMAIN-SUFFIX,rumah123.com
   - DOMAIN-SUFFIX,rumble.com
   - DOMAIN-SUFFIX,rumporn.com
-  - DOMAIN-SUFFIX,rumt-us.com
   - DOMAIN-SUFFIX,run.app
   - DOMAIN-SUFFIX,runbtx.com
   - DOMAIN-SUFFIX,rundf665.cyou
@@ -29105,7 +29069,6 @@ payload:
   - DOMAIN-SUFFIX,thepiratebay.ee
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,theplatform.com
-  - DOMAIN-SUFFIX,thepoizon.ru
   - DOMAIN-SUFFIX,theporn.cc
   - DOMAIN-SUFFIX,thepornarea.com
   - DOMAIN-SUFFIX,thepornbest.com
@@ -30637,7 +30600,6 @@ payload:
   - DOMAIN-SUFFIX,urlgalleries.net
   - DOMAIN-SUFFIX,urlparser.com
   - DOMAIN-SUFFIX,urukawa.com
-  - DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,us.to
   - DOMAIN-SUFFIX,us.weibo.com
   - DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
@@ -32292,6 +32254,7 @@ payload:
   - DOMAIN-SUFFIX,wiki.cnitter.com
   - DOMAIN-SUFFIX,wiki.esu.im
   - DOMAIN-SUFFIX,wiki.gamerp.jp
+  - DOMAIN-SUFFIX,wiki.gg
   - DOMAIN-SUFFIX,wiki.jqueryui.com
   - DOMAIN-SUFFIX,wiki.keso.cn
   - DOMAIN-SUFFIX,wiki.kfd.me

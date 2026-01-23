@@ -1,7 +1,7 @@
-# Checksum: MTc2OTA0NjM2OAo=
+# Checksum: MTc2OTEzMjYwOAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.9-20260122-0
-# TimeUpdated: 2026-01-22T01:46:08+00:00
+# Version: 1.0.9-20260123-0
+# TimeUpdated: 2026-01-23T01:43:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -13373,6 +13373,7 @@ DOMAIN-SUFFIX,baimatech.com,DIRECT
 DOMAIN-SUFFIX,baimda.com,DIRECT
 DOMAIN-SUFFIX,baimei.com,DIRECT
 DOMAIN-SUFFIX,baimeidashu.com,DIRECT
+DOMAIN-SUFFIX,baimiao.tech,DIRECT
 DOMAIN-SUFFIX,baimiaoapp.com,DIRECT
 DOMAIN-SUFFIX,baimin.com,DIRECT
 DOMAIN-SUFFIX,baina.com,DIRECT
@@ -83557,6 +83558,7 @@ DOMAIN-SUFFIX,shinelon.com,DIRECT
 DOMAIN-SUFFIX,shineoptics.com,DIRECT
 DOMAIN-SUFFIX,shineray-motors.com,DIRECT
 DOMAIN-SUFFIX,shinerayad.com,DIRECT
+DOMAIN-SUFFIX,shinescan.tech,DIRECT
 DOMAIN-SUFFIX,shinetsu.shop,DIRECT
 DOMAIN-SUFFIX,shineu.com,DIRECT
 DOMAIN-SUFFIX,shineway.com,DIRECT
