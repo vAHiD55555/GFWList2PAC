@@ -1,7 +1,7 @@
-# Checksum: MTc2OTEzMjYwOAo=
+# Checksum: MTc2OTIxODgzNAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.9-20260123-0
-# TimeUpdated: 2026-01-23T01:43:28+00:00
+# Version: 1.0.9-20260124-0
+# TimeUpdated: 2026-01-24T01:40:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -78903,6 +78903,7 @@ DOMAIN-SUFFIX,redmagic.com,DIRECT
 DOMAIN-SUFFIX,redmart.com,DIRECT
 DOMAIN-SUFFIX,redmou.com,DIRECT
 DOMAIN-SUFFIX,rednetdns.com,DIRECT
+DOMAIN-SUFFIX,rednotecdn.com,DIRECT
 DOMAIN-SUFFIX,redocn.com,DIRECT
 DOMAIN-SUFFIX,redodopower.com,DIRECT
 DOMAIN-SUFFIX,redoop.com,DIRECT
